@@ -44,6 +44,12 @@
 ![лог](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part1_results_log.png)
 ![результат](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part1_results.png)
 
+## подключение nexus
+
+![настройки1](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part1_nexus.png)
+![лог1](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part1_results_log_nexus.png)
+![результат1](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part1_results_nexus.png)
+![nexus_part1](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/nexus_part1.png)
 ---
 
 ### Задание 2
