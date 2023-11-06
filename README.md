@@ -61,17 +61,30 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 
-### Решение 2
+### Решение 2  
 
+![настройки2](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part2_script1.png)
+![результат2](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part2_results.png)
+![лог2](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part2_log.png)
+![nexus_part2](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part2_nexus.png)
 
 ---
 
 ### Задание 3
 
-**Что нужно сделать:**
+**Что нужно сделать:**  
 
+1. Установите на машину Nexus.
+2. Создайте raw-hosted репозиторий.
+3. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
+4. Загрузите файл в репозиторий с помощью jenkins.  
 
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 3
 
-
+![настройки3](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part3_script.png)
+![результат3](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part3_results.png)
+![лог3](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part3_log.png)
+![лог3_1](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part3_log_1.png)
+![nexus_part3](https://github.com/AI-Savin/Netology_HW_Jenkins/blob/main/img/part3_nexus.png)
